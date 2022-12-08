@@ -1,6 +1,6 @@
 # Word-Excel-Pdf-Automation-Python
 
-#This is document automation python programming project.
+#This is document automation python programming project.\n
 #The first script automatically identify keyword from pdf and convert into useful Excel sheet with proper formatting. The Aim of this program to find useful data from pdf document. 
 #The second python script will automatically identify useful data from excel sheet and generate report in pdf and word format. For Example. Employee want to generate employment letter with special recommendation information like he want only salary and joining date in the latter.. 
 #Created Word Template for second script to put data in empty field.
